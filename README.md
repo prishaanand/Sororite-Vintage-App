@@ -5,7 +5,13 @@ App version of the online vintage clothing store Sororite Vintage. Works on all 
 Provide users with a portable way to shop luxury pieces from the renowned brand *Sororite Vintage*. 
 
 #### Views from the App! 
-<img width="300" alt="home-screen" src="https://user-images.githubusercontent.com/60487925/187128643-ab6711e8-50e2-4407-bd23-eed0616f152a.png">
+
+##### Homescreen + Shop Clothing
+<img width="300" alt="home-screen" src="https://user-images.githubusercontent.com/60487925/187128643-ab6711e8-50e2-4407-bd23-eed0616f152a.png"> <img width="300" alt="shop-clothing" src="https://user-images.githubusercontent.com/60487925/187128807-f58997a9-0b5d-4382-a3e2-40eba8713cc0.png"> <img width="300" height= "555" alt="shop-sale" src="https://user-images.githubusercontent.com/60487925/187128820-ec296479-b933-412f-b9a1-328a7d44eda3.png">
+
+##### Features: Cart + Subscription
+<img width="300" alt="shopping-cart" src="https://user-images.githubusercontent.com/60487925/187128835-83fc19ae-e243-4368-b9a2-f25138a13707.png">
+
 
 #### Inspiration: 
 As an avid fan of online shopping, I found it surprising that many luxury brands had online websites, but did not have an app version. 
