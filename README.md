@@ -2,7 +2,7 @@
 App version of the online vintage clothing store Sororite Vintage. Works on all iOS devices.
 
 #### Purpose: 
-Provide users with a portable way to shop luxury pieces from the renowned brand *Sororite Vintage*. 
+Provide users with a portable way to shop luxury pieces from the online platfrom *Sororite Vintage*, which contains a collection of vintage pieces.
 
 #### Views from the App! 
 
