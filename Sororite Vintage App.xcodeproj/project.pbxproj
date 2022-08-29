@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B1CA362D28BC7B4700F98BBB /* Sororite_Vintage_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CA362C28BC7B4700F98BBB /* Sororite_Vintage_AppApp.swift */; };
+		B1CA362D28BC7B4700F98BBB /* Sororite_Vintage_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CA362C28BC7B4700F98BBB /* Sororite_Vintage_App.swift */; };
 		B1CA362F28BC7B4700F98BBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CA362E28BC7B4700F98BBB /* ContentView.swift */; };
 		B1CA363128BC7B4A00F98BBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1CA363028BC7B4A00F98BBB /* Assets.xcassets */; };
 		B1CA363428BC7B4A00F98BBB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1CA363328BC7B4A00F98BBB /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		B1CA362928BC7B4700F98BBB /* Sororite Vintage App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sororite Vintage App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B1CA362C28BC7B4700F98BBB /* Sororite_Vintage_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sororite_Vintage_AppApp.swift; sourceTree = "<group>"; };
+		B1CA362C28BC7B4700F98BBB /* Sororite_Vintage_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sororite_Vintage_App.swift; sourceTree = "<group>"; };
 		B1CA362E28BC7B4700F98BBB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B1CA363028BC7B4A00F98BBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1CA363328BC7B4A00F98BBB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		B1CA362B28BC7B4700F98BBB /* Sororite Vintage App */ = {
 			isa = PBXGroup;
 			children = (
-				B1CA362C28BC7B4700F98BBB /* Sororite_Vintage_AppApp.swift */,
+				B1CA362C28BC7B4700F98BBB /* Sororite_Vintage_App.swift */,
 				B1CA362E28BC7B4700F98BBB /* ContentView.swift */,
 				B1CA363028BC7B4A00F98BBB /* Assets.xcassets */,
 				B1CA363228BC7B4A00F98BBB /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1CA362F28BC7B4700F98BBB /* ContentView.swift in Sources */,
-				B1CA362D28BC7B4700F98BBB /* Sororite_Vintage_AppApp.swift in Sources */,
+				B1CA362D28BC7B4700F98BBB /* Sororite_Vintage_App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
