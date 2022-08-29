@@ -7,11 +7,13 @@ Provide users with a portable way to shop luxury pieces from the renowned brand 
 #### Views from the App! 
 
 ##### Homescreen + Shop Clothing
-<img width="300" alt="home-screen" src="https://user-images.githubusercontent.com/60487925/187128643-ab6711e8-50e2-4407-bd23-eed0616f152a.png"> <img width="300" alt="shop-clothing" src="https://user-images.githubusercontent.com/60487925/187128807-f58997a9-0b5d-4382-a3e2-40eba8713cc0.png"> <img width="300" height= "555" alt="shop-sale" src="https://user-images.githubusercontent.com/60487925/187128820-ec296479-b933-412f-b9a1-328a7d44eda3.png">
+<img width="300" height="555" alt="home-screen" src="https://user-images.githubusercontent.com/60487925/187128643-ab6711e8-50e2-4407-bd23-eed0616f152a.png"> <img width="300" height="555" alt="shop-clothing" src="https://user-images.githubusercontent.com/60487925/187128807-f58997a9-0b5d-4382-a3e2-40eba8713cc0.png"> <img width="300" height="555" alt="shop-sale" src="https://user-images.githubusercontent.com/60487925/187128820-ec296479-b933-412f-b9a1-328a7d44eda3.png">
 
 ##### Features: Cart + Subscription
-<img width="300" alt="shopping-cart" src="https://user-images.githubusercontent.com/60487925/187128835-83fc19ae-e243-4368-b9a2-f25138a13707.png">
+<img width="300" height="555" alt="shopping-cart" src="https://user-images.githubusercontent.com/60487925/187128835-83fc19ae-e243-4368-b9a2-f25138a13707.png"> <img width="300" height="555" alt="subscribe" src="https://user-images.githubusercontent.com/60487925/187129389-13aab5d4-2231-4355-ac10-23ddddd1daab.png">
 
+##### Vogue Blog
+<img width="300" height="555" alt="blog" src="https://user-images.githubusercontent.com/60487925/187129404-a04595e2-ee0d-4ca8-8a0a-0a8217310086.png"> <img width="300" height="555" alt="more-blog" src="https://user-images.githubusercontent.com/60487925/187129417-edae81b5-54f2-482c-9fc2-df02d388a579.png">
 
 #### Inspiration: 
 As an avid fan of online shopping, I found it surprising that many luxury brands had online websites, but did not have an app version. 
