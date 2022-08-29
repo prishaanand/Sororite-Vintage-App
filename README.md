@@ -15,6 +15,9 @@ Provide users with a portable way to shop luxury pieces from the renowned brand 
 ##### Vogue Blog
 <img width="250" height="470" alt="blog" src="https://user-images.githubusercontent.com/60487925/187129404-a04595e2-ee0d-4ca8-8a0a-0a8217310086.png"> <img width="250" height="470" alt="more-blog" src="https://user-images.githubusercontent.com/60487925/187129417-edae81b5-54f2-482c-9fc2-df02d388a579.png">
 
+##### I-pad Version: Homescreen + Shop Jewellery 
+<img width="300" height="400" alt="home-screen-2" src="https://user-images.githubusercontent.com/60487925/187136440-f13c5b13-c76e-4678-a51e-c2eebcfce83a.png"> <img width="300" height="400" alt="shop-jewelery" src="https://user-images.githubusercontent.com/60487925/187136457-19f71e68-3650-4e63-83ac-9ab7f3703ecc.png">
+
 #### Inspiration: 
 As an avid fan of online shopping, I found it surprising that many luxury brands had online websites, but did not have an app version. 
 Because of this, I wanted to create a simple app that users can use for shopping at there favorite online store, even if they do not have an app! 
